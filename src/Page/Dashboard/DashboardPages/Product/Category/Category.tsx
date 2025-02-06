@@ -11,9 +11,9 @@ const Category = () => {
     { label: "Category List" },
   ];
 
-  const [data, setData] = useState(categoryData);
+  const [data] = useState(categoryData); // Just read the categoryData
   const [loading, setLoading] = useState(false);
-  const [error, setError] = useState(null);
+  const [error] = useState<string | null>(null);
 
   useEffect(() => {
     setLoading(false);
@@ -28,8 +28,8 @@ const Category = () => {
         <BreadCrumbs items={breadcrumbItems} />
       </div>
       <div className="card bg-base-100">
-        <div className="flex flex-col sm:flex-row justify-between items-center card-header p-3">
-          <h1 className="card-title text-2xl sm:mb-0 mb-3">Category List</h1>
+        <div className="flex flex-col items-center justify-between p-3 sm:flex-row card-header">
+          <h1 className="mb-3 text-2xl card-title sm:mb-0">Category List</h1>
           <div>
             <Link to={"create"}>
               <button className="theme-btn-one">
@@ -61,7 +61,7 @@ const Category = () => {
           </div>
         </div>
 
-        <div className="card-body p-0">
+        <div className="p-0 card-body">
           <div className="p-4">
             <CategoryList data={data} />
           </div>

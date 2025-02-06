@@ -5,14 +5,14 @@ import {
   LatestOrderAll,
 } from "../../../../../http/latestorders";
 import { useOrderHandlers } from "../../../../../hooks/useOrderHandlers";
-import { FaCheck, FaPen, FaPrint, FaTrash } from "react-icons/fa";
+import { FaPen, FaPrint, FaTrash } from "react-icons/fa";
 import { BsArrowsFullscreen } from "react-icons/bs";
 import BreadCrumbs from "../../../../../comps/BreadCrumbs/BreadCrumbs";
 
 const OrdersReports = () => {
   const [data, setData] = useState<LatestOrderAll[]>([]);
   const [loading, setLoading] = useState(true);
-  const [error, setError] = useState(null);
+  const [error] = useState<string | null>(null);
 
   useEffect(() => {
     (async () => {

@@ -14,7 +14,7 @@ const AllProducts = () => {
   // const [data, setData] = useState(brandDatas);
   const [data, setData] = useState<Products[]>([]);
   const [loading, setLoading] = useState(false);
-  const [error, setError] = useState(null);
+  const [error] = useState<string | null>(null);
 
   useEffect(() => {
     (async () => {

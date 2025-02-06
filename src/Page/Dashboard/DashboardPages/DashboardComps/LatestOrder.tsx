@@ -9,7 +9,7 @@ import { CiSearch } from "react-icons/ci";
 const LatestOrder = () => {
   const [data, setData] = useState<LatestOrderAll[]>([]);
   const [loading, setLoading] = useState(true);
-  const [error, setError] = useState(null);
+  const [error] = useState<string | null>(null);
 
   useEffect(() => {
     (async () => {
