@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "website_name": "N-Mart",
+    "phone_one": "+1-800-123-4567",
+    "phone_two": "+1-800-987-6543",
+    "whatsapp_number": "+1-800-555-7890",
+    "contact_email": "contact@nmart.com",
+    "support_email": "support@nmart.com",
+    "info_email": "info@nmart.com",
+    "about": "Example Store is your go-to destination for high-quality products at unbeatable prices. We strive to provide the best shopping experience with exceptional customer service.",
+    "address_line_one": "123 Main Street",
+    "address_line_two": "Suite 400, Cityville, CA 90210"
+  }
+]

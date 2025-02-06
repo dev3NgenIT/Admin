@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "category_id": 1,
+    "sub_category_id": 1,
+    "child_category_name": "Android Phones",
+    "child_category_icon": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_thumbnail": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_banner": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_description": "Discover the latest Android smartphones with cutting-edge technology.",
+    "child_category_status": "active"
+  },
+  {
+    "id": 2,
+    "category_id": 1,
+    "sub_category_id": 1,
+    "child_category_name": "iPhones",
+    "child_category_icon": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_thumbnail": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_banner": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_description": "Explore the latest Apple iPhones with iOS technology.",
+    "child_category_status": "active"
+  },
+  {
+    "id": 3,
+    "category_id": 1,
+    "sub_category_id": 2,
+    "child_category_name": "Gaming Laptops",
+    "child_category_icon": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_thumbnail": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_banner": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_description": "High-performance gaming laptops with top specs.",
+    "child_category_status": "active"
+  },
+  {
+    "id": 4,
+    "category_id": 1,
+    "sub_category_id": 2,
+    "child_category_name": "Ultrabooks",
+    "child_category_icon": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_thumbnail": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_banner": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_description": "Lightweight and powerful ultrabooks for professionals.",
+    "child_category_status": "active"
+  },
+  {
+    "id": 5,
+    "category_id": 2,
+    "sub_category_id": 3,
+    "child_category_name": "Casual Wear",
+    "child_category_icon": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_thumbnail": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_banner": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_description": "Comfortable and stylish casual wear for everyday fashion.",
+    "child_category_status": "active"
+  },
+  {
+    "id": 6,
+    "category_id": 2,
+    "sub_category_id": 3,
+    "child_category_name": "Formal Wear",
+    "child_category_icon": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_thumbnail": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_banner": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_description": "Elegant and stylish formal wear for every occasion.",
+    "child_category_status": "active"
+  },
+  {
+    "id": 7,
+    "category_id": 3,
+    "sub_category_id": 5,
+    "child_category_name": "Living Room Furniture",
+    "child_category_icon": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_thumbnail": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_banner": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_description": "Upgrade your living space with stylish furniture.",
+    "child_category_status": "inactive"
+  },
+  {
+    "id": 8,
+    "category_id": 4,
+    "sub_category_id": 6,
+    "child_category_name": "Face Care",
+    "child_category_icon": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_thumbnail": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_banner": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_description": "Keep your face glowing with top skincare products.",
+    "child_category_status": "active"
+  },
+  {
+    "id": 9,
+    "category_id": 5,
+    "sub_category_id": 7,
+    "child_category_name": "Home Gym Equipment",
+    "child_category_icon": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_thumbnail": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_banner": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_description": "Build your fitness routine with the best home gym equipment.",
+    "child_category_status": "active"
+  },
+  {
+    "id": 10,
+    "category_id": 6,
+    "sub_category_id": 8,
+    "child_category_name": "Smart Watches",
+    "child_category_icon": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_thumbnail": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_banner": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_description": "Track your health and fitness with the latest smartwatches.",
+    "child_category_status": "active"
+  },
+  {
+    "id": 11,
+    "category_id": 6,
+    "sub_category_id": 8,
+    "child_category_name": "Bluetooth Headphones",
+    "child_category_icon": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_thumbnail": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_banner": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_description": "High-quality sound for a truly wireless experience.",
+    "child_category_status": "active"
+  },
+  {
+    "id": 12,
+    "category_id": 7,
+    "sub_category_id": 9,
+    "child_category_name": "Outdoor Gear",
+    "child_category_icon": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_thumbnail": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_banner": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_description": "Explore the great outdoors with high-performance gear.",
+    "child_category_status": "active"
+  },
+  {
+    "id": 13,
+    "category_id": 8,
+    "sub_category_id": 10,
+    "child_category_name": "Cookware",
+    "child_category_icon": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_thumbnail": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_banner": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_description": "High-quality cookware for your kitchen.",
+    "child_category_status": "active"
+  },
+  {
+    "id": 14,
+    "category_id": 9,
+    "sub_category_id": 11,
+    "child_category_name": "Photography Gear",
+    "child_category_icon": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_thumbnail": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_banner": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_description": "Capture memories with top-of-the-line photography equipment.",
+    "child_category_status": "active"
+  },
+  {
+    "id": 15,
+    "category_id": 10,
+    "sub_category_id": 12,
+    "child_category_name": "Books",
+    "child_category_icon": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_thumbnail": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_banner": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "child_category_description": "Discover the world through books, from fiction to non-fiction.",
+    "child_category_status": "active"
+  }
+]

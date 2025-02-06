@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "thumbnail": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+    "multi_image": [
+      "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg",
+      "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-05.jpg"
+    ],
+    "product_name": "Wireless Bluetooth Headphones",
+    "select_category": "Electronics",
+    "select_brand": "AudioMaster",
+    "sku_code": "WBH-2024",
+    "price": 49.99,
+    "discount_price": 39.99,
+    "product_specification": {
+      "battery_life": "20 hours",
+      "connectivity": "Bluetooth 5.0",
+      "charging_time": "2 hours",
+      "range": "10 meters"
+    },
+    "product_description": "Bluetooth headphones with deep bass, clear sound, and active noise cancellation.",
+    "size": 1,
+    "product_color": "Black",
+    "meta_title": "Best Wireless Bluetooth Headphones 2024",
+    "meta_keyword": ["headphones", "bluetooth", "wireless", "audio"],
+    "meta_description": "Get the best wireless Bluetooth headphones with superior sound quality."
+  },
+  {
+    "id": 2,
+    "thumbnail": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-06.jpg",
+    "multi_image": [
+      "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-06.jpg",
+      "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-06.jpg"
+    ],
+    "product_name": "Smart Fitness Watch",
+    "select_category": "Wearables",
+    "select_brand": "FitTech",
+    "sku_code": "SFW-2024",
+    "price": 79.99,
+    "discount_price": 69.99,
+    "product_specification": {
+      "battery_life": "10 days",
+      "water_resistant": "Yes",
+      "connectivity": "Bluetooth 5.1",
+      "display": "AMOLED"
+    },
+    "product_description": "Track your fitness with a sleek and durable smartwatch.",
+    "size": 2,
+    "product_color": "Silver",
+    "meta_title": "Smart Fitness Watch with Heart Rate Monitor",
+    "meta_keyword": ["smartwatch", "fitness", "wearable", "bluetooth"],
+    "meta_description": "Get real-time fitness tracking with the latest Smart Fitness Watch."
+  },
+  {
+    "id": 3,
+    "thumbnail": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-07.jpg",
+    "multi_image": [
+      "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-07.jpg",
+      "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-07.jpg"
+    ],
+    "product_name": "Gaming Mouse",
+    "select_category": "Accessories",
+    "select_brand": "ProGamer",
+    "sku_code": "GMX-500",
+    "price": 29.99,
+    "discount_price": 24.99,
+    "product_specification": {
+      "dpi": "16000",
+      "buttons": "6 programmable",
+      "connectivity": "Wired USB",
+      "rgb_lighting": "Yes"
+    },
+    "product_description": "High-performance gaming mouse with ultra-responsive sensors.",
+    "size": 3,
+    "product_color": "Red",
+    "meta_title": "ProGamer RGB Gaming Mouse",
+    "meta_keyword": ["gaming", "mouse", "RGB", "wired"],
+    "meta_description": "Enhance your gaming with the ultra-responsive ProGamer Mouse."
+  },
+  {
+    "id": 4,
+    "thumbnail": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-08.jpg",
+    "multi_image": [
+      "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-08.jpg",
+      "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-08.jpg"
+    ],
+    "product_name": "Noise Cancelling Earbuds",
+    "select_category": "Electronics",
+    "select_brand": "SoundBeat",
+    "sku_code": "NCE-2024",
+    "price": 99.99,
+    "discount_price": 89.99,
+    "product_specification": {
+      "battery_life": "30 hours",
+      "connectivity": "Bluetooth 5.2",
+      "charging_time": "1.5 hours",
+      "water_resistant": "Yes"
+    },
+    "product_description": "Compact earbuds with advanced noise cancellation.",
+    "size": 4,
+    "product_color": "White",
+    "meta_title": "SoundBeat Noise Cancelling Earbuds",
+    "meta_keyword": ["earbuds", "bluetooth", "noise cancellation"],
+    "meta_description": "Enjoy immersive sound with the best noise-canceling earbuds."
+  },
+  {
+    "id": 5,
+    "thumbnail": "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-09.jpg",
+    "multi_image": [
+      "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-09.jpg",
+      "https://tailwindui.com/plus/img/ecommerce-images/category-page-05-image-card-09.jpg"
+    ],
+    "product_name": "Portable Power Bank",
+    "select_category": "Accessories",
+    "select_brand": "ChargeMax",
+    "sku_code": "PPB-2024",
+    "price": 39.99,
+    "discount_price": 29.99,
+    "product_specification": {
+      "capacity": "20,000mAh",
+      "ports": "USB-C, USB-A",
+      "fast_charging": "Yes",
+      "weight": "300g"
+    },
+    "product_description": "Fast-charging portable power bank with high capacity.",
+    "size": 5,
+    "product_color": "Blue",
+    "meta_title": "ChargeMax 20000mAh Power Bank",
+    "meta_keyword": ["power bank", "portable charger", "USB-C", "fast charging"],
+    "meta_description": "Stay powered up anywhere with the ChargeMax 20,000mAh power bank."
+  }
+]

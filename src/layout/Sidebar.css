@@ -1,0 +1,79 @@
+.admin-sidebar {
+  background-color: #fff;
+}
+.sdm-link {
+  color: #4c5564;
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  letter-spacing: -0.14px;
+}
+
+.head-profile {
+  display: flex;
+  justify-self: start;
+  align-items: center;
+}
+
+.profile-title {
+  color: #4c5564;
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: -0.14px;
+}
+.profile-designation {
+  color: #7e7e7e;
+  font-family: Inter;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: -0.12px;
+}
+.submenu-links {
+  color: #808080;
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: -0.14px;
+}
+.submenu-links:hover {
+  color: var(--primary-color);
+}
+.submenu-links:hover {
+  background-color: #ff7143;
+  color: white;
+  transition: all 0.5s;
+}
+.menu-active {
+  background-color: #ff7143;
+  color: white;
+  transition: all 0.5s;
+}
+.rotate-down{
+
+}
+.rotate-left{
+  transform: rotate(-90deg);
+}
+@media only screen and (max-width: 600px) {
+  .profile-info {
+    display: none;
+  }
+  .logo-title {
+    display: none;
+  }
+  .logo-container {
+    width: 5rem;
+  }
+  .chevron-icons {
+    display: none;
+  }
+}

@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "category_name": "Electronics",
+      "category_icon": "https://via.placeholder.com/50x50?text=Electronics",
+      "category_thumbnail": "https://via.placeholder.com/100x100?text=Electronics",
+      "category_banner": "https://via.placeholder.com/600x200?text=Electronics+Banner",
+      "category_description": "Find the latest and greatest in electronics, from smartphones to smart home devices.",
+      "category_status": "active"
+    },
+    {
+      "id": 2,
+      "category_name": "Fashion",
+      "category_icon": "https://via.placeholder.com/50x50?text=Fashion",
+      "category_thumbnail": "https://via.placeholder.com/100x100?text=Fashion",
+      "category_banner": "https://via.placeholder.com/600x200?text=Fashion+Banner",
+      "category_description": "Explore a wide range of clothing, accessories, and footwear to stay trendy.",
+      "category_status": "active"
+    },
+    {
+      "id": 3,
+      "category_name": "Home & Garden",
+      "category_icon": "https://via.placeholder.com/50x50?text=Home+%26+Garden",
+      "category_thumbnail": "https://via.placeholder.com/100x100?text=Home+%26+Garden",
+      "category_banner": "https://via.placeholder.com/600x200?text=Home+%26+Garden+Banner",
+      "category_description": "Upgrade your home and garden with high-quality furniture, decor, and tools.",
+      "category_status": "inactive"
+    },
+    {
+      "id": 4,
+      "category_name": "Beauty & Health",
+      "category_icon": "https://via.placeholder.com/50x50?text=Beauty+%26+Health",
+      "category_thumbnail": "https://via.placeholder.com/100x100?text=Beauty+%26+Health",
+      "category_banner": "https://via.placeholder.com/600x200?text=Beauty+%26+Health+Banner",
+      "category_description": "Discover the best in skincare, makeup, and wellness products.",
+      "category_status": "active"
+    },
+    {
+      "id": 5,
+      "category_name": "Sports & Outdoors",
+      "category_icon": "https://via.placeholder.com/50x50?text=Sports+%26+Outdoors",
+      "category_thumbnail": "https://via.placeholder.com/100x100?text=Sports+%26+Outdoors",
+      "category_banner": "https://via.placeholder.com/600x200?text=Sports+%26+Outdoors+Banner",
+      "category_description": "Gear up for your next adventure with top sports and outdoor equipment.",
+      "category_status": "active"
+    }
+]

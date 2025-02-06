@@ -1,0 +1,44 @@
+[
+  [
+    {
+      "id": 1,
+      "category_name": "Technology",
+      "blog_meta_title": "Latest Tech Trends & Innovations",
+      "blog_image": "https://via.placeholder.com/300x200?text=Technology+Blog",
+      "blog_status": "active",
+      "blog_description": "Stay updated with the latest advancements in technology and gadgets."
+    },
+    {
+      "id": 2,
+      "category_name": "Health & Wellness",
+      "blog_meta_title": "Tips for a Healthy Lifestyle",
+      "blog_image": "https://via.placeholder.com/300x200?text=Health+Blog",
+      "blog_status": "active",
+      "blog_description": "Explore wellness tips, fitness routines, and healthy living guides."
+    },
+    {
+      "id": 3,
+      "category_name": "Travel",
+      "blog_meta_title": "Discover Beautiful Destinations",
+      "blog_image": "https://via.placeholder.com/300x200?text=Travel+Blog",
+      "blog_status": "active",
+      "blog_description": "Find travel guides, tips, and breathtaking destinations for your next adventure."
+    },
+    {
+      "id": 4,
+      "category_name": "Business",
+      "blog_meta_title": "Entrepreneurship & Market Insights",
+      "blog_image": "https://via.placeholder.com/300x200?text=Business+Blog",
+      "blog_status": "inactive",
+      "blog_description": "Learn about business strategies, trends, and industry insights."
+    },
+    {
+      "id": 5,
+      "category_name": "Food & Recipes",
+      "blog_meta_title": "Delicious Recipes & Cooking Tips",
+      "blog_image": "https://via.placeholder.com/300x200?text=Food+Blog",
+      "blog_status": "active",
+      "blog_description": "Discover new recipes, cooking tips, and culinary inspiration."
+    }
+  ]
+]

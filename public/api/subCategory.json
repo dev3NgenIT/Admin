@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "category_id": 1,
+    "sub_category_name": "Mobile Phones",
+    "sub_category_icon": "https://picsum.photos/50/50?random=1",
+    "sub_category_thumbnail": "https://picsum.photos/100/100?random=1",
+    "sub_category_banner": "https://picsum.photos/600/200?random=1",
+    "sub_category_description": "Explore the latest smartphones from top brands.",
+    "sub_category_status": "active"
+  },
+  {
+    "id": 2,
+    "category_id": 1,
+    "sub_category_name": "Laptops",
+    "sub_category_icon": "https://picsum.photos/50/50?random=2",
+    "sub_category_thumbnail": "https://picsum.photos/100/100?random=2",
+    "sub_category_banner": "https://picsum.photos/600/200?random=2",
+    "sub_category_description": "Find high-performance laptops for work and gaming.",
+    "sub_category_status": "active"
+  },
+  {
+    "id": 3,
+    "category_id": 2,
+    "sub_category_name": "Men's Clothing",
+    "sub_category_icon": "https://picsum.photos/50/50?random=3",
+    "sub_category_thumbnail": "https://picsum.photos/100/100?random=3",
+    "sub_category_banner": "https://picsum.photos/600/200?random=3",
+    "sub_category_description": "Trendy and comfortable clothing for men.",
+    "sub_category_status": "active"
+  },
+  {
+    "id": 4,
+    "category_id": 2,
+    "sub_category_name": "Women's Accessories",
+    "sub_category_icon": "https://picsum.photos/50/50?random=4",
+    "sub_category_thumbnail": "https://picsum.photos/100/100?random=4",
+    "sub_category_banner": "https://picsum.photos/600/200?random=4",
+    "sub_category_description": "Stylish accessories to complement every outfit.",
+    "sub_category_status": "active"
+  },
+  {
+    "id": 5,
+    "category_id": 3,
+    "sub_category_name": "Furniture",
+    "sub_category_icon": "https://picsum.photos/50/50?random=5",
+    "sub_category_thumbnail": "https://picsum.photos/100/100?random=5",
+    "sub_category_banner": "https://picsum.photos/600/200?random=5",
+    "sub_category_description": "Upgrade your home with stylish and comfortable furniture.",
+    "sub_category_status": "inactive"
+  },
+  {
+    "id": 6,
+    "category_id": 4,
+    "sub_category_name": "Skincare",
+    "sub_category_icon": "https://picsum.photos/50/50?random=6",
+    "sub_category_thumbnail": "https://picsum.photos/100/100?random=6",
+    "sub_category_banner": "https://picsum.photos/600/200?random=6",
+    "sub_category_description": "Keep your skin healthy with top skincare products.",
+    "sub_category_status": "active"
+  },
+  {
+    "id": 7,
+    "category_id": 5,
+    "sub_category_name": "Fitness Equipment",
+    "sub_category_icon": "https://picsum.photos/50/50?random=7",
+    "sub_category_thumbnail": "https://picsum.photos/100/100?random=7",
+    "sub_category_banner": "https://picsum.photos/600/200?random=7",
+    "sub_category_description": "Get fit with high-quality workout gear.",
+    "sub_category_status": "active"
+  }
+]

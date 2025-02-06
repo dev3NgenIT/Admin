@@ -1,0 +1,33 @@
+.trending .title {
+  color: #000;
+  font-feature-settings: "ss01" on, "cv01" on;
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: var(--Semi-Bold, 600);
+  line-height: 20px; /* 142.857% */
+  letter-spacing: var(--Letter-Spacing, 0px);
+}
+.trending .category {
+  font-feature-settings: "ss01" on, "cv01" on;
+  font-family: Inter;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: var(--Semi-Bold, 600);
+  line-height: 20px; /* 142.857% */
+  letter-spacing: var(--Letter-Spacing, 0px);
+}
+.trending .price {
+  color: #252525;
+  font-feature-settings: "ss01" on, "cv01" on;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: var(--Semi-Bold, 600);
+  line-height: 20px; /* 142.857% */
+  letter-spacing: var(--Letter-Spacing, 0px);
+}
+.search-box{
+  position: relative;
+  right: 30px;
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "default_language": "en",
+    "default_currency": "USD",
+    "meta_image": "https://via.placeholder.com/300x300?text=Meta+Image",
+    "copyright_url": "https://www.example.com",
+    "meta_keyword": "ecommerce, online store, best deals, shopping",
+    "copyright_title": "© 2024 Example Store. All Rights Reserved.",
+    "meta_description": "Welcome to Example Store, your go-to destination for the best products at unbeatable prices."
+  }
+]
