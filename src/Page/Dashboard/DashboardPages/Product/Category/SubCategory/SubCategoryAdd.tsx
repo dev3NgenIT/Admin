@@ -1,4 +1,3 @@
-import React from "react";
 import { useForm } from "react-hook-form";
 import BreadCrumbs from "../../../../../../comps/BreadCrumbs/BreadCrumbs";
 import { FaCloudUploadAlt } from "react-icons/fa";

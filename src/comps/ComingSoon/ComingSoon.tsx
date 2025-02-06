@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 
 const ComingSoon = () => {
   // Set countdown target date to February 7, 2025, at 23:59:59

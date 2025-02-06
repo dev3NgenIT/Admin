@@ -54,7 +54,7 @@ const Main: React.FC = () => {
               </ul>
             </div>
             <div
-              className="drawer-content flex-1"
+              className="flex-1 drawer-content"
               style={{ backgroundColor: "#F9FAFF" }}
             >
               <Outlet />
